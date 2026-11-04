@@ -13,7 +13,6 @@ uses that one instead.
 | [.github/ISSUE_TEMPLATE](.github/ISSUE_TEMPLATE) | Bug and feature forms |
 | [.github/workflows/pr-policy.yml](.github/workflows/pr-policy.yml) | Reusable: open-PR cap and self-review gate |
 | [.github/workflows/gitflow.yml](.github/workflows/gitflow.yml) | Reusable: `<type>/<slug>` branch names, and `main` back-merged into `develop` |
-| [profile/README.md](profile/README.md) | About me |
 
 ## Using the shared workflows
 
